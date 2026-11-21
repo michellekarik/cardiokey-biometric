@@ -1,0 +1,10 @@
+__MACOSX/
+.gradle/
+.idea/
+build/
+local.properties
+*.class
+*.dex
+*.jar
+*.apk
+*.iml
